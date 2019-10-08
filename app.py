@@ -1,7 +1,7 @@
 import requests
 import pprint as pp
 
-#  @TODO sort items into a dictionary
+#  @TODO add items into a dictionary
 
 from all_content import AllContent
 
